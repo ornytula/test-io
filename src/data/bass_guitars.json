@@ -1,0 +1,146 @@
+{
+  "id": "bass-guitars",
+  "name": "Бас‑гитары",
+  "products": [
+     {
+    "id": "bas001",
+    "name": "Harley Benton Enhanced MJ-4EB Lake Blue",
+    "brand": "Harley Benton",
+    "price": 76900,
+    "description": "Эргономичный корпус из ольхи с плавными линиями и совпадающей окраской головы грифа; 6‑болтовой канадский гриф из клёна Hard Rock с накладкой из эбони и перламутровыми блоками; 22 средних нержавеющих лада и порожек Black TUSQ XL; звукосниматели — humbucker Roswell MFR4 в бридже и single coil Roswell JM‑4A в середине с активным/пассивным двухполосным эквалайзером; хромированная фурнитура и бело‑перламутровый пикгард; цвет – глянцевый Lake Blue.",
+    "inStock": true,
+    "rating": 4.5,
+    "bodyShape": "Jazz Bass",
+    "neckJoint": "Болтовое",
+    "color": "Синий",
+    "pickups": "Roswell MFR4 humbucker и Roswell JM‑4A single coil",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Болтовой гриф, активный/пассивный EQ, J‑стиль",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_enhanced_mj_4eb_lake_blue.jpg"
+  },
+  {
+    "id": "bas002",
+    "name": "Harley Benton JB‑75MN NA Vintage Series",
+    "brand": "Harley Benton",
+    "price": 45666,
+    "description": "Модель из винтажной серии с корпусом из американского ясеня и болтовым кленовым грифом с полоской roseacer; накладка из клена с черными блоками, 20 ладов и белый графитовый порожек; два сингловых звукоснимателя Roswell JBA‑B и JBA‑N Alnico 5 с пассивной схемой и двумя регуляторами громкости и тоном; хромированная фурнитура, латунные седла и черная однопластовая накладка; цвет – натуральный высокоглянцевый.",
+    "inStock": true,
+    "rating": 4.6,
+    "bodyShape": "Jazz Bass",
+    "neckJoint": "Болтовое",
+    "color": "Натуральный",
+    "pickups": "2 × Roswell JBA‑B/JBA‑N Alnico 5 single coil",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Винтажная серия, корпус из ясеня, пассивные синглы",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_jb_75mn_na_vintage.jpg"
+  },
+  {
+    "id": "bas003",
+    "name": "Harley Benton JB‑20 BM Standard Series",
+    "brand": "Harley Benton",
+    "price": 30444,
+    "description": "Бюджетная модель со стандартным J‑корпусом из тополя и болтовым кленовым грифом; накладка из лауреля с точечными маркерами, 20 ладов и двойной анкер; два сингловых звукоснимателя JB‑style обеспечивают классическое джаз‑басовое звучание; пассивная схема с двумя регуляторами громкости и тоном, хромированная фурнитура и классические машинки; цвет – синий металлик, высокоглянцевый.",
+    "inStock": true,
+    "rating": 4.6,
+    "bodyShape": "Jazz Bass",
+    "neckJoint": "Болтовое",
+    "color": "Синий металлик",
+    "pickups": "2 JB‑style single coils",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Болтовой гриф, две пассивные сингловые катушки, J‑форма",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_jb_20_bm_standard.jpg"
+  },
+  {
+    "id": "bas004",
+    "name": "Harley Benton JB‑20 CA Standard Series",
+    "brand": "Harley Benton",
+    "price": 28122,
+    "description": "Доступный J‑бас с болтовым креплением грифа; корпус из тополя, кленовый гриф с накладкой из амаранта, 20 ладов и современный профиль C; два JB‑style сингла с пассивной схемой (два громкости и тон), хромированные колки и фурнитура; струны 045–105; цвет – яркий Candy Apple красный, высокоглянцевый.",
+    "inStock": true,
+    "rating": 4.6,
+    "bodyShape": "Jazz Bass",
+    "neckJoint": "Болтовое",
+    "color": "Красный",
+    "pickups": "2 JB‑style single coils",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Красный Candy Apple, пассивные синглы, J‑формат",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_jb_20_ca_standard.jpg"
+  },
+  {
+    "id": "bas005",
+    "name": "Harley Benton Enhanced MJ‑4MN Natural",
+    "brand": "Harley Benton",
+    "price": 76900,
+    "description": "JB‑формат с корпусом из болотного ясеня и совпадающей отделкой головы грифа; 6‑болтовой канадский гриф из клёна с накладкой из клёна и черными блоками; 22 средних нержавеющих лада и порожек Black TUSQ XL; звукосниматели Roswell MFR4 humbucker (бридж) и Roswell JM‑4A single coil (шейка) с активным/пассивным двухполосным эквалайзером и возможностью разделения катушек; хромированная фурнитура и трёхслойный чёрный пикгард; цвет – натуральный матовый.",
+    "inStock": true,
+    "rating": 4.4,
+    "bodyShape": "Jazz Bass",
+    "neckJoint": "Болтовое",
+    "color": "Натуральный матовый",
+    "pickups": "Roswell MFR4 humbucker и Roswell JM‑4A single coil",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Болтовой гриф, активный/пассивный EQ, ясень болотный",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_enhanced_mj_4mn_natural.jpg"
+  }
+]
+}

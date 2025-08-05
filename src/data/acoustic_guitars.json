@@ -1,0 +1,146 @@
+{
+  "id": "acoustic-guitars",
+  "name": "Акустические гитары",
+  "products": [
+   {
+    "id": "cla001",
+    "name": "Startone CG 851 3/4",
+    "brand": "Startone",
+    "price": 11616,
+    "description": "Классическая гитара 3/4 размера с корпусом из липы (basswood), грифом из нато и накладкой из ятоба. Мензура 580 мм, ширина верхнего порожка 48 мм, нейлоновые струны и матовый светло‑коричневый (натуральный) цвет. Комплект не включает чехол или кейс.",
+    "inStock": true,
+    "rating": 4.1,
+    "bodyShape": "Classical 3/4",
+    "neckJoint": "Вклеенный",
+    "color": "Light Brown",
+    "pickups": "Нет",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/startone/1.jpg",
+      "../gallery/startone/2.jpg",
+      "../gallery/startone/3.jpg",
+      "../gallery/startone/4.jpg"
+    ],
+    "audioDemo": "../audio/startone/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Липовый корпус, нато гриф, матовая отделка",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/startone/startone_cg_851_34.jpg"
+  },
+  {
+    "id": "cla002",
+    "name": "Thomann C-403 NT Set",
+    "brand": "Thomann",
+    "price": 21538,
+    "description": "Набор классической гитары 3/4 с верхом из европейской ели, корпусом и грифом из окуме и накладкой/подставкой из Blackwood. Профиль грифа C, 19 никелевых ладов, мензура 590 мм и 48 мм верхний порожек. В комплект входят мягкий чехол (5 мм), клип‑тюнер и подставка для ноги.",
+    "inStock": true,
+    "rating": 4.3,
+    "bodyShape": "Classical 3/4",
+    "neckJoint": "Вклеенный",
+    "color": "Natural",
+    "pickups": "Нет",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Да",
+    "galleryImages": [
+      "../gallery/thomann/1.jpg",
+      "../gallery/thomann/2.jpg",
+      "../gallery/thomann/3.jpg",
+      "../gallery/thomann/4.jpg"
+    ],
+    "audioDemo": "../audio/thomann/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Еловый топ, включает чехол и аксессуары",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/thomann/thomann_c_403_nt_set.jpg"
+  },
+  {
+    "id": "cla003",
+    "name": "Thomann Classic Guitar 3/4 Black",
+    "brand": "Thomann",
+    "price": 31218,
+    "description": "Классическая гитара 3/4 с ламинированным еловым верхом, корпусом, грифом и накладкой из клёна. Никелевые механики, мензура 590 мм и 47 мм верхний порожек. Глянцевая чёрная отделка. Чехол и кейс не входят.",
+    "inStock": true,
+    "rating": 4.5,
+    "bodyShape": "Classical 3/4",
+    "neckJoint": "Вклеенный",
+    "color": "Black",
+    "pickups": "Нет",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/thomann/1.jpg",
+      "../gallery/thomann/2.jpg",
+      "../gallery/thomann/3.jpg",
+      "../gallery/thomann/4.jpg"
+    ],
+    "audioDemo": "../audio/thomann/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Ламинированная ель, клён, чёрный глянец",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/thomann/thomann_classic_guitar_34_black.jpg"
+  },
+  {
+    "id": "cla004",
+    "name": "Startone CG-851 3/4 Blue",
+    "brand": "Startone",
+    "price": 10648,
+    "description": "Классическая гитара 3/4 с корпусом из липы, грифом из нато и грифом, накладкой из клёна. Мензура 580 мм, ширина порожка 48 мм, чёрная окантовка и нейлоновые струны. Сатиновая синяя отделка. Чехол и кейс не входят.",
+    "inStock": true,
+    "rating": 4.3,
+    "bodyShape": "Classical 3/4",
+    "neckJoint": "Вклеенный",
+    "color": "Blue",
+    "pickups": "Нет",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/startone/1.jpg",
+      "../gallery/startone/2.jpg",
+      "../gallery/startone/3.jpg",
+      "../gallery/startone/4.jpg"
+    ],
+    "audioDemo": "../audio/startone/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Липа, нато, синяя сатиновая отделка",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/startone/startone_cg_851_34_blue.jpg"
+  },
+  {
+    "id": "cla005",
+    "name": "La Mancha Rubi CM/59",
+    "brand": "La Mancha",
+    "price": 57838,
+    "description": "Премиальная классическая гитара 3/4, рекомендованная EGTA: цельный верх из канадского кедра, махагониевый корпус, гриф Toona Kalantas с карбоновой вставкой, накладка и подставка из овангкола, костяной порожек и седло. Позолоченные колки, кленовая окантовка и матовая натуральная отделка.",
+    "inStock": true,
+    "rating": 4.8,
+    "bodyShape": "Classical 3/4",
+    "neckJoint": "Вклеенный",
+    "color": "Natural",
+    "pickups": "Нет",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/la_mancha/1.jpg",
+      "../gallery/la_mancha/2.jpg",
+      "../gallery/la_mancha/3.jpg",
+      "../gallery/la_mancha/4.jpg"
+    ],
+    "audioDemo": "../audio/la_mancha/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Кедровый топ, махагони, премиальные материалы",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/la_mancha/la_mancha_rubi_cm_59.jpg"
+  }
+]
+}

@@ -1,0 +1,29 @@
+.site-header, .site-footer {
+  background-color: #1a1a1a;
+  color: white;
+  padding: 1rem 2rem;
+}
+.site-header .logo a {
+  font-size: 1.5rem;
+  color: white;
+  text-decoration: none;
+}
+.main-nav ul {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+}
+.main-nav a {
+  color: white;
+  text-decoration: none;
+}
+.site-footer {
+  margin-top: 3rem;
+  text-align: center;
+}
+.footer-nav a {
+  margin: 0 1rem;
+  color: white;
+  text-decoration: none;
+  font-size: 0.9rem;
+}

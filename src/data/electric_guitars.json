@@ -1,0 +1,30 @@
+[
+  {
+    "id": "lp002",
+    "name": "Harley Benton SC-550 II BCF",
+    "brand": "Harley Benton",
+    "price": 325,
+    "description": "Камераный корпус Meranti с арочной AAAA пламёвой верхней декой, вклеенный гриф Meranti с накладкой pau ferro, 22 лада из нержавеющей стали, золотая фурнитура DLX, две humbucker Tesla Opus‑1.",
+    "shortDescription": "Камераный корпус, Tesla Opus-1, цвет Black Cherry Flame",
+    "inStock": false,
+    "rating": 4.7,
+    "bodyShape": "Les Paul",
+    "neckJoint": "Вклеенный",
+    "color": "Black Cherry Flame",
+    "pickups": "Tesla Opus-1",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "imagePreview": "../images/guitars/hb/harley_benton_sc_550_ii_bcf.jpg",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "category": "electric_guitars"
+  }
+]
