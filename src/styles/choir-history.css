@@ -1,0 +1,58 @@
+
+
+.choir-title {
+  color: gold;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin-bottom: 2em;
+  letter-spacing: 0.04em;
+}
+
+.choir-block-wrapper {
+  max-width: 70vw;
+  margin: 0 auto;
+  padding: 2.1em 2vw 2.2em 2vw;
+  color: var(--gold-main);
+}
+
+.choir-section {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  margin-bottom: 3.5em;
+  align-items: flex-start;
+}
+
+.choir-section:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.choir-text {
+  flex: 1;
+  font-size: 1.11em;
+  line-height: 1.74;
+}
+
+.choir-photo {
+  flex: 1;
+  max-width: 45%;
+}
+
+.choir-photo img {
+  width: 100%;
+  height: 45vh;
+  border-radius: 12px;
+  box-shadow: 0 3px 24px rgba(0, 0, 0, 0.4);
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .choir-section {
+    flex-direction: column !important;
+  }
+
+  .choir-photo {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,57 @@
+/* layout */
+.catalog-layout {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 1.5rem;
+}
+
+/* filters sidebar */
+.filters {
+  font-size: 0.875rem;
+  user-select: none;
+}
+
+.acc header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.4rem 0;
+  cursor: pointer;
+  font-weight: 600;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.acc-body { padding: 0.5rem 0 0.75rem; }
+
+.plus {
+  transition: transform 0.2s ease;
+}
+.plus.open {
+  transform: rotate(45deg);
+}
+
+.check-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.2rem 0;
+}
+
+.clear-radio {
+  margin-top: 0.3rem;
+  font-size: 0.75rem;
+  background: none;
+  border: none;
+  color: #0073ff;
+  cursor: pointer;
+}
+
+.price-row {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.price-slider {
+  width: 100%;
+  margin-top: 0.4rem;
+}

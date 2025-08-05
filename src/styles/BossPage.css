@@ -1,0 +1,70 @@
+.boss-logo-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 8em;
+  margin-bottom: 1em;
+}
+
+.boss-logo {
+  width: 270px;
+  max-width: 70vw;
+}
+
+.boss-title {
+  color: gold;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 0.4em;
+  letter-spacing: 0.04em;
+  font-size: 2em;
+}
+
+.boss-content {
+  max-width:70vw;
+  margin: 0 auto;
+  padding: 2.2em 2vw;
+  color: var(--gold-main);
+}
+
+.boss-image-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5em;
+}
+
+.boss-image {
+  width: 100%;
+  height: 90vh;
+  border-radius: 1.2em;
+  box-shadow: 0 3px 24px #0a124033;
+  object-fit: cover;
+}
+
+.boss-name {
+  text-align: center;
+  margin-bottom: 1em;
+  font-weight: 700;
+  font-size: 2.5em;
+}
+
+.boss-text {
+  line-height: 1.7;
+  font-size: 1.15em;
+}
+
+.boss-section-title {
+  margin-top: 1.15em;
+  color: var(--gold-main);
+  font-weight: 600;
+  text-align: center;
+  font-size: 2em;
+}
+@media  (max-width:900px) {
+  .boss-content {
+  max-width:96vw;
+  margin: 0 auto;
+  padding: 2.2em 2vw;
+  color: var(--gold-main);
+}
+  
+}

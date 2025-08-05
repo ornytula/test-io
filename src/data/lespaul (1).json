@@ -1,0 +1,142 @@
+[
+  {
+    "id": "lp001",
+    "name": "Harley Benton SC-550 II FTF",
+    "brand": "Harley Benton",
+    "price": 318,
+    "description": "Камераный корпус из мерванти с изогнутым топом из AAA пламёвой кленовой доски, вклеенный гриф из мерванти с накладкой pau ferro, 22 лада из нержавеющей стали, звукосниматели – две humbucker Tesla Opus‑1, хромированная фурнитура.",
+    "inStock": false,
+    "rating": 4.7,
+    "bodyShape": "Les Paul",
+    "neckJoint": "Вклеенный",
+    "color": "Faded Tobacco Flame",
+    "pickups": "Tesla Opus-1",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Камераный корпус, Tesla Opus-1, цвет Faded Tobacco Flame",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_sc_550_ii_ftf.jpg"
+  },
+  {
+    "id": "lp002",
+    "name": "Harley Benton SC-550 II BCF",
+    "brand": "Harley Benton",
+    "price": 325,
+    "description": "Камераный корпус Meranti с арочной AAAA пламёвой верхней декой, вклеенный гриф Meranti с накладкой pau ferro, 22 лада из нержавеющей стали, золотая фурнитура DLX, две humbucker Tesla Opus‑1.",
+    "inStock": false,
+    "rating": 4.7,
+    "bodyShape": "Les Paul",
+    "neckJoint": "Вклеенный",
+    "color": "Black Cherry Flame",
+    "pickups": "Tesla Opus-1",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Камераный корпус, Tesla Opus-1, цвет Black Cherry Flame",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_sc_550_ii_bcf.jpg"
+  },
+  {
+    "id": "lp003",
+    "name": "Harley Benton SC-550 II PAF",
+    "brand": "Harley Benton",
+    "price": 318,
+    "description": "Камераный корпус Meranti с облегчённой фрезеровкой, изогнутый AAA кленовый топ, вклеенный гриф Meranti с накладкой pau ferro, 22 лада из нержавеющей стали, две humbucker Tesla Opus‑1, хромированная фурнитура.",
+    "inStock": true,
+    "rating": 4.8,
+    "bodyShape": "Les Paul",
+    "neckJoint": "Вклеенный",
+    "color": "Paradise Amber Flame",
+    "pickups": "Tesla Opus-1",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Камераный корпус, Tesla Opus-1, цвет Paradise Amber Flame",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_sc_550_ii_paf.jpg"
+  },
+  {
+    "id": "lp004",
+    "name": "Harley Benton SC-550 II Silver Burst",
+    "brand": "Harley Benton",
+    "price": 318,
+    "description": "Deluxe‑серия: камераный корпус Meranti с арочной пламёвой верхней декой, вклеенный гриф Meranti, накладка pau ferro, 22 лада из нержавеющей стали, две humbucker Tesla Opus‑1, хромовая фурнитура, цвет Silver Burst.",
+    "inStock": true,
+    "rating": 4.7,
+    "bodyShape": "Les Paul",
+    "neckJoint": "Вклеенный",
+    "color": "Silver Burst",
+    "pickups": "Tesla Opus-1",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/hb/4.jpg",
+      "../gallery/hb/3.jpg",
+      "../gallery/hb/2.jpg",
+      "../gallery/hb/1.jpg"
+    ],
+    "audioDemo": "../audio/hb/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Камераный корпус, Tesla Opus-1, цвет Silver Burst",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/hb/harley_benton_sc_550_ii_silver_burst.jpg"
+  },
+  {
+    "id": "lp005",
+    "name": "Larry Carlton L7V GD Top",
+    "brand": "Larry Carlton",
+    "price": 498,
+    "description": "Корпус из махагони с кленовым топом, вклеенный гриф из махагони, накладка из эбена, 22 medium jumbo лада; два сингл‑койла LC Vintage P90, хромированная фурнитура.",
+    "inStock": true,
+    "rating": 4.6,
+    "bodyShape": "Les Paul",
+    "neckJoint": "Вклеенный",
+    "color": "Gold",
+    "pickups": "LC Vintage P90",
+    "caseIncluded": "Нет",
+    "gigbagIncluded": "Нет",
+    "galleryImages": [
+      "../gallery/lc/1.jpg",
+      "../gallery/lc/2.jpg",
+      "../gallery/lc/3.jpg",
+      "../gallery/lc/4.jpg"
+    ],
+    "audioDemo": "../audio/lc/1.mp3",
+    "videoDemos": [
+      "../video/1.mp4"
+    ],
+    "shortDescription": "Махагони и клен, P90, золотой топ",
+    "isFavorite": false,
+    "imagePreview": "../images/guitars/lc/larry_carlton_l7v_gd_top.jpg"
+  }
+]
