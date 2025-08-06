@@ -1,27 +1,20 @@
-const bcrypt = require('bcryptjs');
-const jwt = require('jsonwebtoken');
-const User = require('../models/User');
-const { jwtSecret } = require('../config/config');
+const mongoose = require('mongoose');
 
-exports.register = async (req, res) => {
-  const { name, email, password } = req.body;
-  if (!email || !password) return res.status(400).json({ error: 'Заполните все поля' });
-  const hash = await bcrypt.hash(password, 10);
-  const user = await User.create({ name, email, password: hash });
-  const token = jwt.sign({ userId: user._id }, jwtSecret, { expiresIn: '7d' });
-  res.json({ token });
-};
+const orderItemSchema = new mongoose.Schema({
+  product: { type: mongoose.Schema.Types.ObjectId, ref: 'Product', required: true },
+  quantity: { type: Number, required: true },
+  price: { type: Number, required: true }
+});
 
-exports.login = async (req, res) => {
-  const { email, password } = req.body;
-  const user = await User.findOne({ email });
-  if (!user || !(await bcrypt.compare(password, user.password)))
-    return res.status(401).json({ error: 'Неверные данные' });
-  const token = jwt.sign({ userId: user._id }, jwtSecret, { expiresIn: '7d' });
-  res.json({ token });
-};
+const orderSchema = new mongoose.Schema(
+  {
+    user: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
+    items: [orderItemSchema],
+    total: { type: Number, required: true },
+    status: { type: String, default: 'new' },
+    paymentId: { type: String }
+  },
+  { timestamps: true }
+);
 
-exports.profile = async (req, res) => {
-  const user = await User.findById(req.user.userId).select('name email');
-  res.json({ user });
-};
+module.exports = mongoose.model('Order', orderSchema);
